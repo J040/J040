@@ -1,4 +1,4 @@
-# Hey, I'm João Victor and this is my resume! :books:
+# Hey, I'm João Victor! :books:
 
 <!-- [See this content in portuguese](https://github.com/SamuelBFavarin/SamuelBFavarin/blob/master/README.md) | [See my english resume :page_facing_up:](https://docs.google.com/document/d/1Sk5FmRVJ_zdNIYH7NbtLa3vyvaOFEeQ6s2eA7tVut80/edit?usp=sharing)
 
