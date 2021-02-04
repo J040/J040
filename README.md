@@ -4,7 +4,7 @@
 
 Me chamo João, sou Bacharel em Ciência da Computação e atuamente trabalho como Desenvolvedor de Software na Pulses. Comecei a programar quando tinha 14/15 anos, em delphi, além de ter feito cursos como manutenção de computadores e outros. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javascript, PHP, Python (Flask, Matplotlib, Scikit-learn, Tensorflow, Pandas, Numpy...), MySQL, Postgress, MongoDB, Neo4J, entre outras.
  
-Hoje estou focando na linguagem Python, querendo seguir carreira nessa linguagem e com os frameworks/libraries dessa linguagem.  
+Hoje estou focando na linguagem Python, buscando seguir carreira.  
 
 ## Redes Sociais :raising_hand:
 
