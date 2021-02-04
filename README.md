@@ -1,80 +1,61 @@
-# Hey, I'm João Victor! :books:
+# Oi, meu nome é João Victor Ribeiro! :books:
 
-<!-- [See this content in portuguese](https://github.com/SamuelBFavarin/SamuelBFavarin/blob/master/README.md) | [See my english resume :page_facing_up:](https://docs.google.com/document/d/1Sk5FmRVJ_zdNIYH7NbtLa3vyvaOFEeQ6s2eA7tVut80/edit?usp=sharing)
+<-- [See this content in english :us:](https://github.com/SamuelBFavarin/resume/blob/master/README.md) | --> [See my english resume :page_facing_up:](https://docs.google.com/document/d/1Sk5FmRVJ_zdNIYH7NbtLa3vyvaOFEeQ6s2eA7tVut80/edit?usp=sharing) | [Veja meu currículo em português :bookmark_tabs:](https://docs.google.com/document/d/1_d_WpwpC2FpeEY4PP2yFzwk16XhciAVThT2rEDW4xKs/edit?usp=sharing)
 
-I'm Samuel Favarin, I have a Bacharel Degree in Computer Science, and currently, I work as a Software Engineer at Conecta Nuvem. I started programming at 15 years old, and since then, I worked with many technologies for desktop, web, and mobile development. I worked with Delphi, C++, Java, Javascript (Jquery, Vue, Cordova, React Native), PHP, Python (Flask, Django, Matplotlib, Scikit-learn, Pandas), MySQL, Postgress, Google Datastore, BigQuery, Google Cloud.
+Me chamo João, sou Bacharel em Ciência da Computação e atuamente trabalho como Desenvolvedor de Software na Pulses. Comecei a programar quando tinha 14/15 anos, em delphi, além de ter feito cursos como manutenção de computadores e outros. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javascript, PHP, Python (Flask, Matplotlib, Scikit-learn, Tensorflow, Pandas, Numpy...), MySQL, Postgress, MongoDB, Neo4J, entre outras.
+ 
+Hoje estou focando na linguagem Python, querendo seguir carreira nessa linguagem e com os frameworks/libraries dessa linguagem.  
 
-Today, I'm focusing to improve my code quality skills, applying unit tests, code refactoring, and design partners.
+## Redes Sociais :raising_hand:
 
-## Social Media :raising_hand:
+ - Entre em contato pelo [Linkedin](https://www.linkedin.com/in/samuelbratifavarin/).
+ <!-- - Siga meu [Github](https://github.com/SamuelBFavarin) para acompanhar todos meus projetos open sources. -->
+ - Podemos trocar uma ideia via e-mail, pode enviar para joao.v.ribeiro@outlook.com
 
- - Follow me on [Linkedin](https://www.linkedin.com/in/samuelbratifavarin/) and let's talk!
- - This is my [Github](https://github.com/SamuelBFavarin) where I post my open source projects.
- - My e-mail is favarin.dev@gmail.com, feel free to send me a message.
+<-- ## Projetos que trabalhei :wrench:
 
-## My job projects :wrench:
+Na minha carreira, já trabalhei em projetos diversos, dentre eles gosto de destacar:
 
-In my career, I have worked on several projects, among which I like to highlight:
-
-### Pulses Project ([Link](https://www.pulses.com.br/produtos/plataforma-pulses))
-Pulses is a web tool to monitor the climate and the engagement of employees in organizations. In this project, I was responsible for the  Pulses Performance application development, using Cordova, Vue.js, and PHP. The application was hybrid and could be used on Android, IOS, and Web.
+### Projeto Pulses ([Link](https://www.pulses.com.br/produtos/plataforma-pulses))
+Pulses é uma ferramenta para monitorar o clima e o engajamento dos colaboradores nas organizações. Nesse projeto, fui responsável pelo desenvolvimento do aplicativo Pulses Performance, que foi desenvolvido utilizando Cordova, Vue.js e PHP. O aplicativo era híbrido, podendo ser utilizado tanto no Android quanto no IOS. 
 
 ### Projeto Conecta Suite ([Link](https://app.conectasuite.com/login))
-Conecta Suite is a web application designed to empower GSuite administrators with tools that facilitate the management of their users' accounts. The project was developed using Vue.js on the Front-end, Python (Flask) on the Back-end, and is hosted on Google Cloud Platform, using technologies such as App Engine, DataStore, Firebase Host, Cloud Functions, BigQuery, and Cloud Tasks.
+O Conecta Suite é uma aplicação web com o objetivo de emponderar os administradores GSuite com ferramentas que facilitam o gerenciamento das contas de seus usuários. O projeto foi desenvolvido utilizando Vue.js no Front-end, Python (Flask) no Back-end, e é hospedado no Google Cloud Platform, utilizando tecnologias como App Engine, DataStore, Firebase Host, Cloud Functions e BigQuery.
 
 ### Projeto Pulses People Analytics ([Link](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0))
-Applying data mining and artificial intelligence, I answered questions and created models to predict questions such as, "Attributes that most impact employee engagement", "Attributes that most impact employees to be happy" , " Factors that impact employee turnover ". I used Python with the libraries, Matplotlib, Scikit-learn, Pandas, and Numpy. The project generated a publication on Computer on the Beach 2020.
+Utilizando Técnicas de mineração de dados e inteligência artificial, respondi perguntas e criei modelos para predizer questões como, *"Atributos que mais impactam no engajamento dos colaboradores"*, *"Característica que levam os colaboradres a serem felizes nas organizações"*, *"Fatores que impactam no desligamento dos funcionários"*. Utilizei Python com as bibliotecas, Matplotlib, Scikit-learn, Pandas e Numpy. O projeto gerou uma publicação no Computer on the Beach 2020. 
 
-## Open Source Projects (Highlights) :hammer:
+## Projetos Open Source em destaque :hammer:
 ### Presidentsum ([Link](https://presidentsum.com/))
-Presidentsum is a tool that creates "Lorem Ipsum" with famous phrases from recent Brazilian and American presidents. It was developed with Vue.js.
+Presidentsum é uma ferramenta geradora de Lorem Ipsum com frases famosas dos recentes presidentes brasileiros e americanos. Foi desenvolvido puramente com Vue.js. 
 
 ### Gui Grafos ([Link](https://github.com/SamuelBFavarin/Grafos-GUI))
-A web tool for education that provides a graphical interface to generate data structures in graphs and apply the classic algorithms. The project developed with Javascript.
+Uma ferramenta com o intuíto em educação que fornece uma interface gráfica para gerar grafos e aplicar os algoritmos clássicos como o Busca em Profundidade, Coloração e Dijkstra. Projeto desenvolvido com Javascript Vanilla.
 
 ### Face Detector ([Link](https://github.com/SamuelBFavarin/faceDetect))
-Tool developed with Python and OpenCV to detect faces and apply fun filters in real-time.
+Ferramenta desenvolvida com Python e OpenCV com o objetivo de detectar faces e aplicar filtros divertidos em tempo real.
 
-See all Open Source Projects [here](https://github.com/SamuelBFavarin?tab=repositories)
+Veja todos os projetos Open Source que desenvolvi [clicando aqui](https://github.com/SamuelBFavarin?tab=repositories)
 
+## Conquistas :trophy:
 
-## Achievements :trophy:
+### Finalista TuApp 2015 em Valparaíso, Chile
+Eu e mais 2 colegas fomos uma das equipes finalistas do Torneio Universitário de Apps. Nossa proposta foi o desenvolvimento de um MVP de um Aplicativo Android para auxiliar os turistas a encontrarem melhores pontos turísticos, hoteis, restaurantes e eventos. 
 
-### TuApp 2015 finalist in Valparaíso, Chile
-My team and I were finalists in the University Apps Tournament. We developed the MVP of an Android Application to help tourists find better sights, hotels, restaurants, and events.
+### Publicação Resumo Estendido Computer on the Beach 2020
+Projeto desenvolvido em conjunto com a Pulses e a Universidade do vale do Itajaí, para aplicar técnicas de mineração de dados e inteligência artificial na área de gestão de pessoas. [Clique aqui para ver a publicação](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0). 
 
-### Paper in Computer on the Beach 2020
-The project was developed jointly with Pulses and the University of the Itajaí Valley, to apply data mining and artificial intelligence techniques in the area of ​​people management. [Click here to view the paper](https://siaiap32.univali.br/seer/index.php/acotb/article/view/16722/0)
+### Ministrante do curso "Introdução ao Python" e do curso "Criando aplicações web com Flask"
+Cursos ministrados para alunos de Ciência da Computação, Sistemas para Internet e engenharia da computação, ocorrido na semana da computação 2019 da Universidade do Vale do Itajaí.  
 
-### Teacher of the course "Introduction to Python" and the course "Creating web applications with Flask".
+### Ministrante das Conecta Talks
+Ministrei duas talks internas da Conecta Nuvem, a primeira foi "inteligência artificial e suas aplicações" e a segunda "uma introdução à lógica de programação".
 
-The target audience was Computer Science, Internet Systems, and Computer Engineering students. The courses were hosted at UNIVALI in 2019.
-
-### Talker in Conecta Talks
-I did two internal talks at Conecta Nuvem, the first was "artificial intelligence and its applications" and the second "an introduction to programming logic".
-
-## I recommend these books :book:
-
- - Clean Code, by Robert Cecil Martin;
- - Clean Architecture, by Robert Cecil Martin;
- - Learning Python Design Patterns, by Chetan Giridhar;
- - Classical Computer Science Problems in Python, by David Koper;
- - Data Science from Scratch, by Joel Grus;
- - Refactoring: Improving the Design of Existing Codes, by Martin Fowler. -->
+### Hacktoberfest 2020
+Pela primeira vez participei do evento hacktober fest, sendo que minha principal contribuição foi a criação de um repositório, junto com meus amigos para o compartilhamento de exercícios de lógica de programação em Python. -->
 
 
+## Livros que recomendo :book:
 
-<!--
-**J040/J040** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ - Código Limpo escrito por Robert Cecil Martin;
+ - Python Fluente escrito por Luciano Ramalho;
