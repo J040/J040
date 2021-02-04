@@ -12,7 +12,7 @@ Hoje estou focando na linguagem Python, querendo seguir carreira nessa linguagem
  <!-- - Siga meu [Github](https://github.com/SamuelBFavarin) para acompanhar todos meus projetos open sources. -->
  - Podemos trocar uma ideia via e-mail, pode enviar para joao.v.ribeiro@outlook.com
 
-<-- ## Projetos que trabalhei :wrench:
+<!-- ## Projetos que trabalhei :wrench: 
 
 Na minha carreira, já trabalhei em projetos diversos, dentre eles gosto de destacar:
 
