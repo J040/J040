@@ -8,7 +8,7 @@ Hoje estou focando na linguagem Python, buscando seguir carreira.
 
 ## Redes Sociais :raising_hand:
 
- - Entre em contato pelo [Linkedin](https://www.linkedin.com/in/samuelbratifavarin/).
+ - Entre em contato pelo [Linkedin](https://www.linkedin.com/in/joao-victor-ribeiro/).
  <!-- - Siga meu [Github](https://github.com/SamuelBFavarin) para acompanhar todos meus projetos open sources. -->
  - Podemos trocar uma ideia via e-mail, pode enviar para joao.v.ribeiro@outlook.com
 
