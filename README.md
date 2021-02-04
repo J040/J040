@@ -2,6 +2,7 @@
 
 <!-- [See this content in english :us:](https://github.com/SamuelBFavarin/resume/blob/master/README.md) | --> [See my english resume :page_facing_up:](https://docs.google.com/document/d/151iBJo3N-Zy97pbXMAKFnKCBggFnj90U7MEifTCsSho/edit?usp=sharing) | [Veja meu currículo em português :bookmark_tabs:](https://docs.google.com/document/d/1DHz3eouIqTMaboi8ztSC0t-LFfD8zbaOGns2WAnUhkI/edit?usp=sharing)
 
+
 Me chamo João, sou Bacharel em Ciência da Computação e atuamente trabalho como Desenvolvedor de Software na Pulses. Comecei a programar quando tinha 14/15 anos, em delphi, além de ter feito cursos como manutenção de computadores e outros. Já estudei e trabalhei com tecnologias como Delphi, C++, Java, Javascript, PHP, Python (Flask, Matplotlib, Scikit-learn, Tensorflow, Pandas, Numpy...), MySQL, Postgress, MongoDB, Neo4J, entre outras.
  
 Hoje estou focando na linguagem Python, e buscando seguir carreira.  
