@@ -60,17 +60,13 @@ At Pulses, I developed and maintained features for a people analytics platform c
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Meta Llama](https://img.shields.io/badge/Meta%20Llama-0467DF?style=flat-square&logo=meta&logoColor=white)
 
-### Currently learning
-
-Deepening my knowledge of **Git, CI/CD, Jenkins and React**. Vue.js and AdonisJS above reflect my earlier professional work.
 
 ## A little more about me
 
-- 🎓 Bachelor's degree in Computer Science, **UNIVALI**, 2019.
+- 🎓 Bachelor's degree in Computer Science, **UNIVALI**, 2020.
 - 💬 **Portuguese** (native) and **English** (advanced).
 - 🤝 I enjoy sharing knowledge and working with people from different disciplines and backgrounds.
-- 🎸 Outside software, I enjoy music, photography and visual arts.
 
 ## Let's connect
 
-You can find me on **[LinkedIn](https://www.linkedin.com/in/j040/)**. I'm happy to talk about full-stack development, data, applied AI and computer vision.
+You can find me on **[LinkedIn](https://www.linkedin.com/in/j040/)**. I'm happy to talk about full-stack development, data, applied AI and much more.
